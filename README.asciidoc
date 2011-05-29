@@ -8,6 +8,8 @@ software embedded development. For more details please visit the link:http://www
 
 If you've just downloaded *eLua* and are looking to get started check out link:http://www.eluaproject.net/en_using.html[using eLua].
 
+This fork is to add a PIC32MX port, for chipkit's max32 board.
+
 
 General Features
 ----------------
